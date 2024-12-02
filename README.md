@@ -1,6 +1,8 @@
 📚 Activity: Full Name Generator
 📝 Task Description:
 
+Copy or download the code inside "index.html"
+
 Create a web page where a user can:
 1. Input their first name in one text box.
 2. Input their last name in another text box.
